@@ -15,13 +15,9 @@
 
 <div align="center">
   <details>
-    <summary style="font-size: 16px; font-weight: bold; color: #2ea44f; cursor: pointer; padding: 10px; border: 2px solid #2ea44f; border-radius: 6px; width: 190px; list-style: none; background-color: #f6f8fa; text-align: center;">
-      📂 View My Resume 👇
-    </summary>
+    <summary style="font-size: 16px; font-weight: bold; color: #2ea44f; cursor: pointer; padding: 10px; border: 2px solid #2ea44f; border-radius: 6px; width: 190px; list-style: none; background-color: #f6f8fa; text-align: center;">📂 View My Resume 👇</summary>
     <br />
-    <a href="https://drive.google.com/file/d/1GPEMgiBsfWra7OUDX18kWeLyj_Z8czXR/view?usp=drive_link" target="_blank" style="text-decoration: none;">
-      <kbd style="background-color: #0078D4; color: white; padding: 8px 16px; font-size: 14px; font-weight: bold; border-radius: 4px; font-family: sans-serif;">📥 Download Resume (PDF)</kbd>
-    </a>
+    <a href="https://drive.google.com/file/d/1GPEMgiBsfWra7OUDX18kWeLyj_Z8czXR/view?usp=drive_link" target="_blank" style="text-decoration: none;"><kbd style="background-color: #0078D4; color: white; padding: 8px 16px; font-size: 14px; font-weight: bold; border-radius: 4px; font-family: sans-serif;">📥 Download Resume (PDF)</kbd></a>
   </details>
 </div>
 
