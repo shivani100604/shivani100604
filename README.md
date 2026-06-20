@@ -78,15 +78,12 @@
 
 ---
 
-### 📊 GitHub Activity
+### 🎯 Core Methodologies & Core Strengths
 
-**My GitHub Stats:**  
-![Shivani's GitHub Stats](https://vercel.app)
+- 🤝 **Agile Collaboration:** Experienced in version control utilizing Git workflows, maintaining robust system documentations, and team communication.
+- ⚡ **Optimization Focus:** Specialized in minimizing application response times, structuring clean code architectures, and reducing overhead metrics.
+- 🧠 **Problem Solving:** Driven by automating repetitive system administrator infrastructure operations and implementing strict authorization protocols.
 
-**Top Languages I Use:**  
-![Top Languages](https://vercel.app)
+---
 
-**My Coding Streak:**  
-![GitHub Streak](https://onrender.com)
-
-
+🔧 *“The best error message is the one that never shows up because the system was engineered to handle the exception flawlessly.”*
