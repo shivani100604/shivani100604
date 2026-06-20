@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivani-gangwar-3b15b7327/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/shivani-gangwar-3b15b7327" target="_blank" style="text-decoration: none;">
     <kbd style="background-color: #0077B5; color: white; padding: 6px 12px; font-weight: bold; border-radius: 4px; font-family: sans-serif;">🌐 LinkedIn Profile</kbd>
   </a>
   &nbsp;&nbsp;
