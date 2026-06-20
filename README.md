@@ -79,16 +79,14 @@
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <!-- Shivani's GitHub Stats Card -->
-  <img src="https://vercel.app" alt="Shivani's GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
 
-<p align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</p>
+**My GitHub Stats:**  
+![Shivani's GitHub Stats](https://vercel.app)
+
+**Top Languages I Use:**  
+![Top Languages](https://vercel.app)
+
+**My Coding Streak:**  
+![GitHub Streak](https://onrender.com)
+
 
