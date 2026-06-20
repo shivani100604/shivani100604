@@ -23,8 +23,6 @@
       <kbd style="background-color: #0078D4; color: white; padding: 8px 16px; font-size: 14px; font-weight: bold; border-radius: 4px; font-family: sans-serif;">📥 Download Resume (PDF)</kbd>
     </a>
   </details>
-
-  </details>
 </div>
 
 ---
