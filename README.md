@@ -4,22 +4,24 @@
 </p>
 
 <p align="center">
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/shivani-gangwar-3b15b7327/" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <!-- Gmail Button -->
-  <a href="mailto:sgangwar592@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/shivani-gangwar-3b15b7327/" target="_blank" style="text-decoration: none;">
+    <kbd style="background-color: #0077B5; color: white; padding: 6px 12px; font-weight: bold; border-radius: 4px; font-family: sans-serif;">🌐 LinkedIn Profile</kbd>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sgangwar592@gmail.com" style="text-decoration: none;">
+    <kbd style="background-color: #D14836; color: white; padding: 6px 12px; font-weight: bold; border-radius: 4px; font-family: sans-serif;">✉️ Send Email</kbd>
+  </a>
 </p>
 
-<!-- Website-style Dropdown Menu Button -->
 <div align="center">
   <details>
-    <summary style="font-size: 16px; font-weight: bold; color: #2ea44f; cursor: pointer; padding: 10px; border: 1px solid #2ea44f; border-radius: 5px; width: 180px; list-style: none; background-color: #f6f8fa;">
-      📄 View My Resume
+    <summary style="font-size: 16px; font-weight: bold; color: #2ea44f; cursor: pointer; padding: 10px; border: 2px solid #2ea44f; border-radius: 6px; width: 190px; list-style: none; background-color: #f6f8fa; text-align: center;">
+      📂 View My Resume 👇
     </summary>
     <br />
-    <!-- Nested Download Button inside the dropdown -->
-    <a href="https://drive.google.com/file/d/1GPEMgiBsfWra7OUDX18kWeLyj_Z8czXR/view?usp=sharing" target="_blank">
-      <img src="https://shields.io" alt="Download Resume" />
+    
+    <a href="https://drive.google.com/file/d/1GPEMgiBsfWra7OUDX18kWeLyj_Z8czXR/view?usp=sharing" target="_blank" style="text-decoration: none;">
+      <kbd style="background-color: #0078D4; color: white; padding: 8px 16px; font-size: 14px; font-weight: bold; border-radius: 4px; font-family: sans-serif;">📥 Download Resume (PDF)</kbd>
     </a>
   </details>
 </div>
@@ -84,5 +86,5 @@
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </p>
